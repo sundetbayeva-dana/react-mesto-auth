@@ -4,3 +4,5 @@
 Есть открытые роуты авторизации и регистрации.
 
 В проекте использовались технологии React.js, CRA, react-router-dom.
+
+Ссылка на проект https://sundetbayeva-dana.github.io/react-mesto-auth/
